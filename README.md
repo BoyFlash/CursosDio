@@ -9,12 +9,11 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
  ## 💻 Resumos das aulas 
  | Aulas | Resumos |
  |-------|---------|
- | Gravação Alterações no Repositório Local | [Resumos]
- () |
+ | Gravação Alterações no Repositório Local | [Resumos] |
   
-...
+```
 git init
-...
+```
 
 ## 🔍 referências 
 - [Digital innovation one]().
